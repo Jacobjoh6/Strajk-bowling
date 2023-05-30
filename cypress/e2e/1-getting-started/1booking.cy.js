@@ -4,11 +4,28 @@ describe('example to-do app', () => {
       cy.visit('http://localhost:5173/')
     })
 
-    it('Does not do much!', () => {
-        expect(true).to.equal(true)
+     it('should add date', () => {
+
+       cy.get('[name="when"]').type('2023-05-30').should('have.value', '2023-05-30');
+
+    //    cy.get('input[name="when"]').invoke('val').then((text) => {
+    //     expect('30/05/2023').to.equal(text);
+    // });
+     })
+
+    it('should add time', () => {
+
+      cy.get('[name="time"]').type('18:00').should('have.value', '18:00');
     })
 
-    it('should add date', () => {
-        
+    it('should add players', () => {
+      cy.get('[name="people"]').type('3').should('have.value', 3)
     })
+
+    it('should add lanes', () => {
+      cy.get('[name="lanes"]').type('1').should('have.value', 1 )
+    })
+
 })
+
+// 
