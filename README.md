@@ -8,6 +8,7 @@
 - ska kunna reservera en eller fler banor att spela på.
    
 2. Som användare vill jag kunna välja skostorlek för varje spelare så varje spelare får skor som passar.
+- ska kunna lägga till ett antal spelare, en bana, ett datum samt tid.
 - ska kunna boka ett bar skor för varje spelare
 - ska kunna välja storlek för alla dessa skor.
 
