@@ -9,8 +9,7 @@
    
 2. Som användare vill jag kunna välja skostorlek för varje spelare så varje spelare får skor som passar.
 - ska kunna lägga till ett antal spelare, en bana, ett datum samt tid.
-- ska kunna boka ett bar skor för varje spelare
-- ska kunna välja storlek för alla dessa skor.
+- ska kunna boka ett bar skor för varje spelare samt kunna välja storlek för dessa skor.
 
 3.Som användare vill jag kunna ta bort ett fält för skostorlek om jag råkade klicka i ett för mycket så 
   jag inte boka skor i onödan.
