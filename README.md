@@ -13,8 +13,9 @@
 
 3.Som användare vill jag kunna ta bort ett fält för skostorlek om jag råkade klicka i ett för mycket så 
   jag inte boka skor i onödan.
-- om antalet skor är fler än spelare så ska man kunna ta bort ett par
-- 
+- Ska kunna lägga till ett antal spelare
+- klicka i ett par skor mer än antalet spelare
+- när antalet skor är fler än spelare så ska man kunna ta bort ett par
 
 4. Som användare vill jag kunna skicka iväg min reservation och få tillbaka ett ett bokningsnummer 
    och totalsumma så jag vet hur mycket jag ska betala. (120 kr / person + 100 kr / bana).
