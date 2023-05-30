@@ -1,0 +1,27 @@
+# Strajk-bowling
+
+1. Som användare vill jag kunna boka datum och tid samt ange antal spelare så att jag 
+   kan reservera 1 eller flera baner i bowlinghallen.
+- ska kunna boka en tid.
+- ska kunna boka en tid.
+- ska kunna ange ett antal spelare.
+- ska kunna reservera en eller fler banor att spela på.
+   
+2. Som användare vill jag kunna välja skostorlek för varje spelare så varje spelare får skor som passar.
+- ska kunna boka ett bar skor för varje spelare
+- ska kunna välja storlek för alla dessa skor.
+
+3.Som användare vill jag kunna ta bort ett fält för skostorlek om jag råkade klicka i ett för mycket så 
+  jag inte boka skor i onödan.
+- om antalet skor är fler än spelare så ska man kunna ta bort ett par
+- 
+
+4. Som användare vill jag kunna skicka iväg min reservation och få tillbaka ett ett bokningsnummer 
+   och totalsumma så jag vet hur mycket jag ska betala. (120 kr / person + 100 kr / bana).
+- ska kunna skicka iväg en reservation.
+- få tillbaka en summa att betala som stämmer överens med antalet spelare samt banor.
+
+5. Som användare vill jag kunna navigera mellan boknings-och bekräftelsevyn.
+- ska kunna navigera från bokningsvyn till bekräftelsevyn.
+- ska kunna navigera från bekräftelsevyn till bokningsmenyn.
+
