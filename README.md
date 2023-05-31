@@ -2,7 +2,7 @@
 
 1. Som användare vill jag kunna boka datum och tid samt ange antal spelare så att jag 
    kan reservera 1 eller flera baner i bowlinghallen.
-- ska kunna boka en tid.
+- ska kunna boka ett datum.
 - ska kunna boka en tid.
 - ska kunna ange ett antal spelare.
 - ska kunna reservera en eller fler banor att spela på.
