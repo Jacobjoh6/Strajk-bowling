@@ -19,8 +19,8 @@
 
 4. Som användare vill jag kunna skicka iväg min reservation och få tillbaka ett ett bokningsnummer 
    och totalsumma så jag vet hur mycket jag ska betala. (120 kr / person + 100 kr / bana).
-- ska kunna skicka iväg en reservation.
-- få tillbaka en summa att betala som stämmer överens med antalet spelare samt banor.
+- ska kunna skicka iväg en reservation och få tillbaka en summa att betala som stämmer överens med antalet spelare samt       banor
+- Bekräfta bokningen och bli skickad till confirmation sidan.
 
 5. Som användare vill jag kunna navigera mellan boknings-och bekräftelsevyn.
 - ska kunna navigera från bokningsvyn till bekräftelsevyn.
