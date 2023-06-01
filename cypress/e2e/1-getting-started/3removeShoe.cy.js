@@ -18,6 +18,8 @@ describe('example to-do app', () => {
       cy.get('[name="lanes"]').type('1').should('have.value', 1 )
 
       cy.get('.shoes__button').click().click().click()
+
+      cy.get('.shoes').find('article').should('have.length', 3) //ny rad
     })
 
     it('Removes the extra pair', () => {
@@ -28,8 +30,13 @@ describe('example to-do app', () => {
 
       cy.get('.shoes__button').click().click().click()
 
+      cy.get('.shoes').find('article').should('have.length', 3) //ny
+
       cy.get('.shoes__form').first().type('43')
       cy.get('.shoes__form').eq(-2).find('button').click()
       cy.get('.shoes__form').last().type('45')
+
+      cy.get('.shoes').find('article').should('have.length', 2) //ny
+
     })
 })
